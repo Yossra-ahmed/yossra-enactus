@@ -1,0 +1,32 @@
+#div1{
+    display: inline-block;background-color: rgb(26, 219, 219);
+    width: 45%;
+    height: 250px;
+    align-items: center;
+    place-items: center;
+    margin-top: 0%;
+}
+
+#img1{
+    height: 100PX;
+    width: 15%;
+display: block;
+margin-left: auto;
+margin-right:auto;
+
+}
+
+p{
+    text-align: center;
+    background-color: rgb(26, 219, 219);
+}
+#div2{display: inline-block;
+background-image: url(1280px-Sunflower_from_Silesia2.jpg);
+background-size: cover;
+border-radius: 6px;
+margin: 15px;padding: 5px;
+margin-right: 8px;
+
+width: 45%;
+height: 250px;
+}
